@@ -1,5 +1,25 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: ;
+body{
+  width: 90%;
+  margin: 30px, auto;
+  height: 50%;
+}
+
+
+h1{
+  color: brown;
+  margin: 30px 30px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+}
+
+a{
+  color: crimson;
+}
+
+main{
+  background-color: darkslateblue;
+ 
 }
