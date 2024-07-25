@@ -27,5 +27,12 @@ main{
 }
 
 form{
-  display: flex;
+  display: column;
+}
+
+.login_btn{
+  width: 40px;
+  background-color: cadetblue;
+  color: white;
+  border-radius: 3px;
 }
