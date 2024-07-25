@@ -1,18 +1,19 @@
 body{
   width: 90%;
-  margin: 30px, auto;
-  height: 50%;
+  margin: 30px auto;
+  
 }
 
 
 h1{
   color: brown;
-  margin: 30px 30px;
+  margin: 30px 0;
 }
 
 nav{
   display: flex;
   justify-content: space-between;
+  border-bottom: none;
 }
 
 a{
@@ -20,6 +21,11 @@ a{
 }
 
 main{
+  height: 50vh;
   background-color: darkslateblue;
- 
+  
+}
+
+form{
+  display: flex;
 }
