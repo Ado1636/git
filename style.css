@@ -36,3 +36,10 @@ form{
   color: white;
   border-radius: 3px;
 }
+
+.login_btn2{
+  width: 90px;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+}
